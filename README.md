@@ -8,10 +8,9 @@
     - Скриншот всех пройденных уровней (для каждой игры): 
     <img width="356" alt="Снимок экрана 2022-03-23 в 15 49 54" src="https://user-images.githubusercontent.com/43643833/159682944-cf11f31e-47f2-427f-9eec-e35be1eab8c6.png">
     
-    
     - Скриншот открытой вкладки Application в dev tools браузера на вкладке localStorage(для каждой игры)
     <img width="835" alt="Снимок экрана 2022-03-23 в 15 54 20" src="https://user-images.githubusercontent.com/43643833/159683834-0427e55a-d68b-45be-89d4-fc7107e24cff.png">
 
-   - Скопировать содержимое localStorage по ключу answers и вставить это содержимое в тело комментария внутри PR
-<img width="900" alt="Снимок экрана 2022-03-23 в 15 59 38" src="https://user-images.githubusercontent.com/43643833/159684560-decc0633-bbdc-4ec8-bc91-df6a8c4ce0b8.png">
+    - Скопировать содержимое localStorage по ключу answers и вставить это содержимое в тело комментария внутри PR
+  <img width="900" alt="Снимок экрана 2022-03-23 в 15 59 38" src="https://user-images.githubusercontent.com/43643833/159684560-decc0633-bbdc-4ec8-bc91-df6a8c4ce0b8.png">
 
